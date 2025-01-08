@@ -24,3 +24,8 @@ Initial Stock Price (current_price): Sets the starting price for the stock being
 ## How to run
 
 To run the order book simulation, simply copy the provided code and paste it into a Jupyter Notebook cell. Ensure you have the necessary dependencies, such as matplotlib, installed in your environment. Execute the cell to initialize the global parameters like current_price, spread, trades, and sentiment, and generate a specified number of orders. As the simulation progresses, the code will display the current price, the order book (including buy and sell orders), and the volume traded at each price point through a graph. This visualization helps in understanding the dynamics of the market in real-time.
+
+
+### Note
+
+The original implementation of the order book system was written in C++ as orderBook.cpp. Later, the code was converted into Python to improve visualization, making it easier to interact with and understand the system's behavior.
