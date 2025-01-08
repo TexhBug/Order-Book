@@ -8,7 +8,7 @@ Limit Orders: Users specify a price at which they want to buy or sell shares.
 Market Orders: Orders are executed immediately at the current market price.
 
 
-##m Dynamic User Configurations:
+## Dynamic User Configurations:
 
 Number of Orders (trades): The user defines the total number of orders to be generated and processed.
 
